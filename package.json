@@ -1,0 +1,23 @@
+{
+  "name": "mod18_socialassignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VictorCast01/Mod18_SocialAssignment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VictorCast01/Mod18_SocialAssignment/issues"
+  },
+  "homepage": "https://github.com/VictorCast01/Mod18_SocialAssignment#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.2"
+  }
+}
