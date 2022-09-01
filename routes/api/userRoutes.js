@@ -9,7 +9,7 @@ const {
 
 router.route('/users').get(getUsers).post(createUser);
 
-router.route('/:userId').get(getSingleUser);
+router.route('/:userId').get(getSingleUser).delete(deleteUser);
 
 module.exports = router;
 
